@@ -34,4 +34,5 @@ print(calculate(expression))
 Whenever inputting a negative number use the "~" rather than a minus sign 
 
 DO: 2+~3 => 2 - 3 = -1
+
 DO NOT: 2+-3 => ERROR
